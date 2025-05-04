@@ -62,7 +62,7 @@ ls -lh
 - [Download VirtualBOX](https://download.virtualbox.org/virtualbox/7.1.8/VirtualBox-7.1.8-168469-Win.exe)
 - [Download ISO for Ubuntu](https://ubuntu.com/download/desktop/thank-you?version=24.04.2&architecture=amd64&lts=true)
 # Upload a pic
-- #[Windowsfeatures#](WindowsFeatures.jpg)
+- ![Windowsfeatures!](WindowsFeatures.png)
 
 
 
