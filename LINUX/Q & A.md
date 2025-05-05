@@ -1,3 +1,4 @@
+# 05/03/2025
 1. Father of Linux?
 - Ans: Linus.(Pass)
 ```
