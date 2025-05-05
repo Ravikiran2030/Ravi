@@ -63,6 +63,20 @@ ls -lh
 - [Download ISO for Ubuntu](https://ubuntu.com/download/desktop/thank-you?version=24.04.2&architecture=amd64&lts=true)
 # Upload a pic
 - ![Windowsfeatures!](WindowsFeatures.png)
+# User Management
+- sudo add user <> --> To add the user into your machine. <username>
+- sudo login <> --> To login to the newlu added user/Another user. <username>
+- sudo userdel <> --> To delete the user from your machine. <username>
+- sudo cat /etc/shadow--> To check the users list. users will be found at /etc, /shadow, /group
+- sudo usermod <> --password --> To change the user's password.
+```
+sudo adduser Kiran
+sudo login Kiran
+sudo userdel Kirn
+sudo cat /etc/shadow
+sudo cat /etc/group
+sudo usermod Kiran --password
+```
 
 
 
